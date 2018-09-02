@@ -69,5 +69,4 @@ Aplicación de conocimientos adquiridos a datos de cada estudiante con la asiste
 
 5. B. Shahbaba. Biostatistics with R: An Introduction to Statistics Through Biological Data. Springer-Verlag, Berlin, 2012.
 
-
 6. H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2009.
