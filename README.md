@@ -17,17 +17,21 @@ El curso finalizará con los estudiantes desarrollando un estudio de caso en el 
 
 ## Jornada Uno
 
-Introducción a R
+### Introducción a R
+
 a) Instalación 
+
 b) Primeros pasos en un ambiente de programación tipo CLI 
+
 c) Entrada y gestión de datos
 
 
 ## Jornada Dos
 
 Estadística descriptiva
-a) Medidas de tendencia central
-b) Medidas de dispersión
+
+a) Medidas de tendencia central 
+b) Medidas de dispersión 
 
 ## Jornada Tres
 
