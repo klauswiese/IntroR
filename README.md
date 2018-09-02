@@ -32,6 +32,7 @@ b) Medidas de dispersión
 ## Jornada Tres
 
 Estadística inferencial
+
 a) Paramétricas
 1. t de student
 2. ANOVA
@@ -89,9 +90,7 @@ Para instalar R se debe ejecutar, en orden, los siguientes comandos desde la con
 
 1. Agregar repositorio CRAN a la lista de repositorios de Ubuntu
 
- ```
  deb http://cran.r-project.org/bin/linux/ubuntu trusty/
- ```
  
  la palabra trusty hace referencia a la versión 14.04 de Ubuntu, si posee otra versión cambie ese nombre por el nombre de su distribución.
  
