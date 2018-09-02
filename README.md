@@ -19,50 +19,48 @@ El curso finalizará con los estudiantes desarrollando un estudio de caso en el 
 
 ### Introducción a R
 
-a) Instalación 
-
-b) Primeros pasos en un ambiente de programación tipo CLI 
-
-c) Entrada y gestión de datos
+1. Instalación 
+2. Primeros pasos en un ambiente de programación tipo CLI 
+3. Entrada y gestión de datos
 
 
 ## Jornada Dos
 
 Estadística descriptiva
 
-a) Medidas de tendencia central 
-b) Medidas de dispersión 
+1. Medidas de tendencia central 
+2. Medidas de dispersión 
 
 ## Jornada Tres
 
 Estadística inferencial
 
-a) Paramétricas
-1. t de student
-2. ANOVA
+1. Paramétricas
+1.1 t de student
+1.2 ANOVA
 
-b) No paramétricas
-1. Wilcoxon
-2. Kruskal - Wallis 
+2. No paramétricas
+2.1 Wilcoxon
+2.2 Kruskal - Wallis 
 
 ## Jornada Cuatro
 
 Análisis gráfico
-a) Tipos de gráficos
-b) Utilidad de gráficos
-c) Generación de gráficos
+1. Tipos de gráficos
+2. Utilidad de gráficos
+3. Generación de gráficos
 
 Análisis de regresión 
-a) Tipos de regresión
-b) Criterios para evaluar un modelo de regresión
+1. Tipos de regresión
+2. Criterios para evaluar un modelo de regresión
 
 ## Jornada Cinco
 
-Desarrollo personal
+Desarrollo personal:
+
 Aplicación de conocimientos adquiridos a datos de cada estudiante con la asistencia del instructor. Finalizando con la presentación de los resultados encontrados por cada estudiante.
 
 # IV. Bibliografía.
-
 
 1. P. Dalgaard, Introductory Statistics with R. Springer, New York 2002.
 
