@@ -78,9 +78,7 @@ Aplicación de conocimientos adquiridos a datos de cada estudiante con la asiste
 
 La versión 3.5.1 es la más reciente y tiene el nombre código Feather Spray, esta corresponde a Julio de 2084. El equipo desarrollador de R esta en constante avance con las actualizaciones de la aplicación pudiendo tener varias actualizaciones al año. El instalador ejecutable de la versión más reciente puede ser descargado de forma gratuita desde la dirección:
 
-```
 https://cloud.r-project.org/
-```
 
 Al hacer la descarga obtendrán el archivo \textbf{R-3.5.1-win.exe} que tiene 62 mega-bytes de tamaño, para completar la instalación se da doble clic sobre el instalador y seleccionar  las opciones de su preferencia (carpeta de instalación y otros), aquí debemos seleccionar la arquitectura de nuestra computadora (32 bits / 64 bits).
 
@@ -90,7 +88,10 @@ Para instalar R se debe ejecutar, en orden, los siguientes comandos desde la con
 
 1. Agregar repositorio CRAN a la lista de repositorios de Ubuntu
 
- deb http://cran.r-project.org/bin/linux/ubuntu trusty/
+```
+deb http://cran.r-project.org/bin/linux/ubuntu trusty/
+
+```
  
  la palabra trusty hace referencia a la versión 14.04 de Ubuntu, si posee otra versión cambie ese nombre por el nombre de su distribución.
  
