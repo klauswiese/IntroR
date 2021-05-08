@@ -4,22 +4,17 @@
 #Dirección de trabajo
 setwd("~/Dropbox/R/ClusterImagenes/")
 
-#libraries
+#Librerias
 library(jpeg)
 library(ggplot2)
 
-#dirección de la imágen
-#url <- "http://www.wall321.com/thumbnails/detail/20120304/colorful%20birds%20tropical%20head%203888x2558%20wallpaper_www.wall321.com_40.jpg"
-
-# Download the file and save it as "Image.jpg" in the directory
-#dFile <- download.file(url, "Image.jpg")
+#Cargar imagen 
 img <- readJPEG("Image.jpg") # Read the image
-
 
 #Dimesiones de la imagen
 imgDm <- dim(img)
 
-# Assign RGB channels to data frame
+# Asignar los canales RGB a la tabla
 imgRGB <- data.frame(
   x = rep(1:imgDm[2], each = imgDm[1]),
   y = rep(imgDm[1]:1, imgDm[2]),
@@ -29,7 +24,7 @@ imgRGB <- data.frame(
 )
 
 #Graficar la image original
-# ggplot theme to be used
+# Tema para ggplot
 plotTheme <- function() {
   theme(
     panel.background = element_rect(
@@ -57,7 +52,7 @@ plotTheme <- function() {
   )
 }
 
-# Plot the image
+#Graficar
 ggplot(data = imgRGB, aes(x = x, y = y)) + 
   geom_point(colour = rgb(imgRGB[c("R", "G", "B")])) +
   labs(title = "Original Image: Colorful Bird") +
