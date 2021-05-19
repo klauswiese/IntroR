@@ -19,9 +19,9 @@ El curso finalizará con los estudiantes desarrollando un estudio de caso en el 
 
 ### Introducción a R
 
-1. Instalación 
-2. Primeros pasos en un ambiente de programación tipo CLI 
-3. Entrada y gestión de datos
+- Instalación 
+- Primeros pasos en un ambiente de programación tipo CLI 
+- Entrada y gestión de datos
 
 
 ## Jornada Dos
