@@ -35,12 +35,12 @@ El curso finalizará con los estudiantes desarrollando un estudio de caso en el 
 
 ### Estadística inferencial
 
-#### 1. Paramétricas
+#### Paramétricas
 
 - t de student
 - ANOVA
 
-#### 2. No paramétricas
+#### No paramétricas
 
 - Wilcoxon
 - Kruskal - Wallis 
@@ -53,13 +53,13 @@ El curso finalizará con los estudiantes desarrollando un estudio de caso en el 
 - Utilidad de gráficos
 - Generación de gráficos
 
-Análisis de regresión 
-1. Tipos de regresión
-2. Criterios para evaluar un modelo de regresión
+### Análisis de regresión 
+- Tipos de regresión
+- Criterios para evaluar un modelo de regresión
 
 ## Jornada Cinco
 
-Desarrollo personal:
+### Desarrollo personal:
 
 Aplicación de conocimientos adquiridos a datos de cada estudiante con la asistencia del instructor. Finalizando con la presentación de los resultados encontrados por cada estudiante.
 
