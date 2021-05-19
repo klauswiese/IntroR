@@ -26,10 +26,10 @@ El curso finalizará con los estudiantes desarrollando un estudio de caso en el 
 
 ## Jornada Dos
 
-Estadística descriptiva
+### Estadística descriptiva
 
-1. Medidas de tendencia central 
-2. Medidas de dispersión 
+- Medidas de tendencia central 
+- Medidas de dispersión 
 
 ## Jornada Tres
 
