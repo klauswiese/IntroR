@@ -33,23 +33,25 @@ Estadística descriptiva
 
 ## Jornada Tres
 
-Estadística inferencial
+### Estadística inferencial
 
-1. Paramétricas
+#### 1. Paramétricas
 
-1.1 t de student
-1.2 ANOVA
+- t de student
+- ANOVA
 
-2. No paramétricas
-2.1 Wilcoxon
-2.2 Kruskal - Wallis 
+#### 2. No paramétricas
+
+- Wilcoxon
+- Kruskal - Wallis 
 
 ## Jornada Cuatro
 
-Análisis gráfico
-1. Tipos de gráficos
-2. Utilidad de gráficos
-3. Generación de gráficos
+### Análisis gráfico
+
+- Tipos de gráficos
+- Utilidad de gráficos
+- Generación de gráficos
 
 Análisis de regresión 
 1. Tipos de regresión
