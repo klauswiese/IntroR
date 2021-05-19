@@ -36,6 +36,7 @@ Estadística descriptiva
 Estadística inferencial
 
 1. Paramétricas
+
 1.1 t de student
 1.2 ANOVA
 
