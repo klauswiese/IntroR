@@ -94,11 +94,11 @@ Para instalar R se debe ejecutar, en orden, los siguientes comandos desde la con
 1. Agregar repositorio CRAN a la lista de repositorios de Ubuntu
 
 ```
-deb http://cran.r-project.org/bin/linux/ubuntu trusty/
+deb http://cran.r-project.org/bin/linux/ubuntu bionic/
 
 ```
  
- la palabra trusty hace referencia a la versión 14.04 de Ubuntu, si posee otra versión cambie ese nombre por el nombre de su distribución.
+ la palabra bionic hace referencia a la versión 18.04 de Ubuntu, si posee otra versión cambie ese nombre por el nombre de su distribución.
  
  2. Habilitar clave que nos de la posibilidad de leer los archivos de el CRAN que recién agregamos:
  
