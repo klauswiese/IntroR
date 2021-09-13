@@ -1,6 +1,4 @@
 ## Conjunto de datos: swiss
-
-
 data(swiss)
 
 summary(swiss)
