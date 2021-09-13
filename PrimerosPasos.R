@@ -205,7 +205,7 @@ subset(df, y > 0)
 df$x^2 + df$y^2
 
 
-## - La función "with" permite acceder a varias variables con una única llamada:
+## - La función "with" permite acceder a varias variables con una única llamada
 
 with(df, x^2 + y^2)
 
