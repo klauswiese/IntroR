@@ -2,7 +2,7 @@
 ###################################################################################
 
 #Dirección de trabajo
-setwd("~/Dropbox/R/ClusterImagenes/")
+#setwd("~/Dropbox/R/ClusterImagenes/")
 
 #Librerias
 library(jpeg)
