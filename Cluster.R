@@ -9,7 +9,7 @@ library(jpeg)
 library(ggplot2)
 
 #Cargar imagen 
-img <- readJPEG("Image.jpg") # Read the image
+img <- readJPEG("Image.jpg")
 
 #Dimesiones de la imagen
 imgDm <- dim(img)
